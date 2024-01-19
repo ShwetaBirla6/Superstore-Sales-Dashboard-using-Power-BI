@@ -38,7 +38,7 @@ The entire dashboard is designed to be interactive. Users can filter data, highl
 
 <img width="1112" alt="superstore-timeseries" src="https://github.com/ShwetaBirla6/Superstore-Sales-Dashboard-using-Power-BI/assets/154302915/ea0dc90d-2445-4b90-aa6f-693a20b86791">
 
-How to Use:
+## How to Use:
 
 Filters:
 Leverage the filters provided in each section to narrow down the analysis to specific regions, time periods, or product categories.
@@ -49,7 +49,7 @@ Use the drill-down features to get a more detailed view of the data. For instanc
 Export Data:
 Data tables and visualizations can be exported for further analysis. Right-click on elements to explore export options.
 
-Conclusion:
+## Conclusion:
 This Power BI dashboard serves as a powerful tool for analyzing Superstore sales data. Whether you're interested in overall performance, regional insights, or specific product categories, the interactive nature of the dashboard empowers users to make data-driven decisions. Regularly updating the data source will ensure that the analysis remains relevant and valuable for ongoing business strategies.
 
 
