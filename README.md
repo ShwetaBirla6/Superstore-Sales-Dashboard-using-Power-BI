@@ -4,6 +4,10 @@
 
 This Power BI dashboard provides a comprehensive analysis of Superstore sales data for the past two years. The interactive nature of the dashboard allows users to explore and derive insights from the data effortlessly. The Superstore sales data has been visualized in an intuitive manner to facilitate decision-making and identify trends.
 
+
+<img width="1120" alt="superstore-dash" src="https://github.com/ShwetaBirla6/Superstore-Sales-Dashboard-using-Power-BI/assets/154302915/223756f2-2bdd-4deb-ab9e-329297e2290f">
+
+
 ### Description
 
 The objective can be broken down into the following detailed components:
