@@ -34,6 +34,10 @@ Understanding the profitability of products and categories is vital. This sectio
 7. Dashboard Interactivity:
 The entire dashboard is designed to be interactive. Users can filter data, highlight specific elements, and zoom in on areas of interest. This flexibility ensures that stakeholders can tailor their analysis to answer specific questions.
 
+
+
+<img width="1112" alt="superstore-timeseries" src="https://github.com/ShwetaBirla6/Superstore-Sales-Dashboard-using-Power-BI/assets/154302915/ea0dc90d-2445-4b90-aa6f-693a20b86791">
+
 How to Use:
 
 Filters:
@@ -48,7 +52,6 @@ Data tables and visualizations can be exported for further analysis. Right-click
 Conclusion:
 This Power BI dashboard serves as a powerful tool for analyzing Superstore sales data. Whether you're interested in overall performance, regional insights, or specific product categories, the interactive nature of the dashboard empowers users to make data-driven decisions. Regularly updating the data source will ensure that the analysis remains relevant and valuable for ongoing business strategies.
 
-Feel free to explore, analyze, and utilize the insights provided by this dashboard to enhance decision-making and drive business success.
 
 
 
